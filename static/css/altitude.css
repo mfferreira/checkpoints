@@ -1,0 +1,30 @@
+
+
+.navbar-header {
+    margin: 15px 20px;
+}
+
+
+.navbar-header i{
+    padding-right: 20px;
+    border-right: 1px solid #e7e7e7;
+    margin-right: 20px;
+    
+}
+
+
+#list li{
+    list-style-type: none;
+    border-bottom: 1px solid #f1f1f1;
+    
+}
+
+#list li img{
+    margin-right: 30px;
+}
+
+
+
+#addBox {
+padding-top: 50px;
+}

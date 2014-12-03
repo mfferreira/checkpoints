@@ -1,0 +1,3 @@
+require(['morris-data'], function(){
+
+});
